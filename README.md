@@ -47,3 +47,8 @@
   <img src="https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white" />
   </a>
 </p>
+
+<p align="center">
+  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=neelyaa&show_icons=true&theme=discord_old_blurple" />
+  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelyaa&hide_progress=true" />
+</p>
