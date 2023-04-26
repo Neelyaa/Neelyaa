@@ -3,7 +3,7 @@
 <h1 align="center"> Bienvenue</h1>
 
 <p align="center">
-  <img src="https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47qm87wluypuv3hwd337c5x78a3290bge478npg1mz&rid=giphy.gif&ct=g" alt="animated" />
+  <img width="40%" src="https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47qm87wluypuv3hwd337c5x78a3290bge478npg1mz&rid=giphy.gif&ct=g" alt="animated" />
 </p>
 
 
