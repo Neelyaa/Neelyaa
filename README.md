@@ -52,5 +52,5 @@
   </a>
 </p>
 
-<p align="center"><img src="https://lanyard.cnrad.dev/api/712354021486362716?borderRadius=20px&idleMessage=Probalement%20en%20train%20de%20coder..." /></p>
+<p align="center"><img width="35%" src="https://lanyard.cnrad.dev/api/712354021486362716?borderRadius=20px&idleMessage=Probalement%20en%20train%20de%20coder..." /></p>
 
