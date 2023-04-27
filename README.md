@@ -1,13 +1,17 @@
 <p align="right"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></p>
 
-<h1 align="center"> Bienvenue</h1>
+<h1 align="center"> Bienvenue 👋 </h1>
 
 <p align="center">
   <img width="40%" src="https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47qm87wluypuv3hwd337c5x78a3290bge478npg1mz&rid=giphy.gif&ct=g" alt="animated" />
 </p>
 
-
 <p align="center"> Développeuse Web <b>passionnée</b>, aspire a rejoindre une équipe afin de transmettre mon <b>dynamisme</b> et ma <b>créativité</b> ! </p>
+
+<p align="center">
+  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=neelyaa&show_icons=true&theme=discord_old_blurple" />
+  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelyaa&hide_progress=true" />
+</p>
 
 <h2 align="center"> :bookmark_tabs:   Languages  </h2>
 <p align="center">
@@ -48,7 +52,5 @@
   </a>
 </p>
 
-<p align="center">
-  <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=neelyaa&show_icons=true&theme=discord_old_blurple" />
-  <img align="center" width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=neelyaa&hide_progress=true" />
-</p>
+<p align="center"><img src="https://lanyard.cnrad.dev/api/712354021486362716?borderRadius=20px&idleMessage=Probalement%20en%20train%20de%20coder..." /></p>
+
