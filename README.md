@@ -6,7 +6,7 @@
   <img width="40%" src="https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47qm87wluypuv3hwd337c5x78a3290bge478npg1mz&rid=giphy.gif&ct=g" alt="animated" />
 </p>
 
-<p align="center"> Développeuse Web <b>passionnée</b>, aspire a rejoindre une équipe afin de transmettre mon <b>dynamisme</b> et ma <b>créativité</b> ! </p>
+<p align="center"> Développeuse Web <b>passionnée</b>, aspire à rejoindre une équipe afin de transmettre mon <b>dynamisme</b> et ma <b>créativité</b> ! </p>
 
 <p align="center">
   <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=neelyaa&show_icons=true&theme=discord_old_blurple" />
