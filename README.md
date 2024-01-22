@@ -7,7 +7,7 @@
 </p>
 
 <p align="center"> Développeuse Web <b>passionnée</b>, aspire à rejoindre une équipe afin de transmettre mon <b>dynamisme</b> et ma <b>créativité</b> ! </p>
-<p align=center>Voici mon portfolio 👉 https://n-nouader-portfolio.netlify.app/ ✨</p>
+<p align=center><b>Voici mon portfolio</b> 👉 https://n-nouader-portfolio.netlify.app/ ✨</p>
 
 <p align="center">
   <img align="center" width="42%" src="https://github-readme-stats.vercel.app/api?username=neelyaa&show_icons=true&theme=discord_old_blurple" />
