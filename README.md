@@ -1,4 +1,4 @@
-<p align="right"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></p>
+<div align="right"><img src="https://forthebadge.com/images/badges/built-with-love.svg"/></div>
 
 <h1 align="center"> Bienvenue 👋 </h1>
 
@@ -54,5 +54,5 @@
   </a>
 </p>
 
-<p align="center"><img src="https://lanyard.kyrie25.me/api/712354021486362716?showBanner=animated&bannerFilter=brightness(0.8)%20blur(2px)&gradient=b1fe95-c7ff16&imgStyle=square&borderRadius=20px&hideStatus=true&idleMessage=Probalement%20en%20train%20de%20coder..." />
-</p>
+<div align="center"><img src="https://lanyard.kyrie25.me/api/712354021486362716?showBanner=animated&bannerFilter=brightness(0.8)%20blur(2px)&gradient=b1fe95-c7ff16&imgStyle=square&borderRadius=20px&hideStatus=true&idleMessage=Probalement%20en%20train%20de%20coder..." width="43%"/>
+</div>
