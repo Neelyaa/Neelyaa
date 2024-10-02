@@ -54,5 +54,5 @@
   </a>
 </p>
 
-<div align="center"><img src="https://lanyard.kyrie25.me/api/712354021486362716?useDisplayName=true&bannerFilter=brightness(0.8)%20blur(2px)&gradient=b1fe95-c7ff16&imgStyle=square&borderRadius=20px&hideStatus=true&idleMessage=Probalement%20en%20train%20de%20coder..." width="44%"/>
+<div align="center"><img src="https://lanyard.kyrie25.me/api/712354021486362716?useDisplayName=true&bannerFilter=brightness(0.8)%20blur(2px)&gradient=b1fe95-c7ff16&imgStyle=square&imgBorderRadius=15px&animationDuration=4s&idleMessage=Probalement%20en%20train%20de%20coder..." width="44%"/>
 </div>
