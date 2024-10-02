@@ -45,7 +45,7 @@
 </p>
 
 <h2 align="center"> 💬 Contact  </h2>
-<p align="center">
+<p align="center">è
   <a href="https://www.linkedin.com/in/no%C3%A9mie-nouader-b6a059232/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
@@ -54,5 +54,5 @@
   </a>
 </p>
 
-<div align="center"><img src="https://lanyard.kyrie25.me/api/712354021486362716?useDisplayName=true&bannerFilter=brightness(0.8)%20blur(2px)&gradient=b1fe95-c7ff16&imgStyle=square&imgBorderRadius=15px&animationDuration=4s&idleMessage=Probalement%20en%20train%20de%20coder..." width="44%"/>
+<div align="center"><img src="https://lanyard.kyrie25.me/api/712354021486362716?useDisplayName=true&gradient=b1fe95-c7ff16&imgStyle=square&imgBorderRadius=15px&waveColor=1DB954&waveSpotifyColor=1DB954&animationDuration=4s&idleMessage=Probalement%20en%20train%20de%20coder..." width="44%"/>
 </div>
