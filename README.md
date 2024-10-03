@@ -45,7 +45,7 @@
 </p>
 
 <h2 align="center"> 💬 Contact  </h2>
-<p align="center">è
+<p align="center">
   <a href="https://www.linkedin.com/in/no%C3%A9mie-nouader-b6a059232/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /> 
   </a>
