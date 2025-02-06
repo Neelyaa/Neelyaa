@@ -16,7 +16,7 @@
 
 <h2 align="center"> :bookmark_tabs:   Languages  </h2>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/28d7c2fb-0541-49a1-9ddf-f8b91645071a" alt="html" width="7%"/> <img src="https://github.com/user-attachments/assets/f8b10dc0-0c09-48c2-a91c-2094d53593da" alt="css" width="7%"/> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="85" height="85" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="87" height="87" /> &nbsp; <img src="https://github.com/user-attachments/assets/2cc1bb8e-d794-47de-bbfb-37896f796c8a" alt="php" width="70" height="70"/>
+<img src="https://github.com/user-attachments/assets/28d7c2fb-0541-49a1-9ddf-f8b91645071a" alt="html" width="7%"/> <img src="https://github.com/user-attachments/assets/f8b10dc0-0c09-48c2-a91c-2094d53593da" alt="css" width="7%"/> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="80" height="80" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="83" height="83" /> &nbsp; <img src="https://github.com/user-attachments/assets/2cc1bb8e-d794-47de-bbfb-37896f796c8a" alt="php" width="70" height="70"/>
 
 
 <h2 align="center"> :mag: Technologies </h2>
