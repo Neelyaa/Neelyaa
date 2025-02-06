@@ -16,7 +16,7 @@
 
 <h2 align="center"> :bookmark_tabs:   Languages  </h2>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/28d7c2fb-0541-49a1-9ddf-f8b91645071a" alt="html" width="7%"/> <img src="https://github.com/user-attachments/assets/f8b10dc0-0c09-48c2-a91c-2094d53593da" alt="css" width="7%"/> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="85" height="85" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="87" height="87" /><img src="https://github.com/user-attachments/assets/2cc1bb8e-d794-47de-bbfb-37896f796c8a" alt="php" width="70" height="70"/>
+<img src="https://github.com/user-attachments/assets/28d7c2fb-0541-49a1-9ddf-f8b91645071a" alt="html" width="7%"/> <img src="https://github.com/user-attachments/assets/f8b10dc0-0c09-48c2-a91c-2094d53593da" alt="css" width="7%"/> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="85" height="85" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="87" height="87" /> &nbsp; <img src="https://github.com/user-attachments/assets/2cc1bb8e-d794-47de-bbfb-37896f796c8a" alt="php" width="70" height="70"/>
 
 
 <h2 align="center"> :mag: Technologies </h2>
@@ -26,7 +26,7 @@
  
 <h2 align="center"> 💾 Base de données </h2>
 <p align="center">
-<img src="https://github.com/user-attachments/assets/f9ce995f-f79f-42d5-aab8-7f49f19a36ed" alt="firebase" width="7%" /> <img src="https://github.com/user-attachments/assets/9b0c4c56-b17c-4acf-b786-623b1f660278" alt="mongodb" width="7%" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70" height="70" /> &nbsp; <img src="https://github.com/user-attachments/assets/c07d5621-f6a7-41cd-97a6-2734fa4ea854" alt="sqlite" width="45" height="45" />
+<img src="https://github.com/user-attachments/assets/f9ce995f-f79f-42d5-aab8-7f49f19a36ed" alt="firebase" width="7%" /> <img src="https://github.com/user-attachments/assets/9b0c4c56-b17c-4acf-b786-623b1f660278" alt="mongodb" width="7%" /> &nbsp; <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70" height="70" /> &nbsp; <img src="https://github.com/user-attachments/assets/c07d5621-f6a7-41cd-97a6-2734fa4ea854" alt="sqlite" width="45" height="45" />
 </p>
 
 <h2 align="center"> ☁️ Hebergements </h2>
