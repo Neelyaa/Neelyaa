@@ -16,16 +16,17 @@
 
 <h2 align="center"> :bookmark_tabs:   Languages  </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white"/> </p>
+<img src="https://github.com/user-attachments/assets/28d7c2fb-0541-49a1-9ddf-f8b91645071a" alt="html" width="7%"/> <img src="https://github.com/user-attachments/assets/f8b10dc0-0c09-48c2-a91c-2094d53593da" alt="css" width="7%"/> <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="javascript" width="85" height="85" /> <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="typescript" width="87" height="87" /><img src="https://github.com/user-attachments/assets/2cc1bb8e-d794-47de-bbfb-37896f796c8a" alt="php" width="70" height="70"/>
+
 
 <h2 align="center"> :mag: Technologies </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/> <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" /> <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white"/> <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://github.com/user-attachments/assets/ec59e6b5-0a72-4971-8670-f63a1ce545c5" alt="react" width="55" height="55"/> &nbsp; <img src="https://github.com/user-attachments/assets/85c76c31-f3bc-43fd-adba-1b6d52d8f08b" alt="expressjs" width="50" height="50"/> &nbsp; <img src="https://github.com/user-attachments/assets/fa2b5ddd-8a61-40ca-a828-2f4035402783" alt="vite" width="50" height="50"/> &nbsp; <img src="https://github.com/user-attachments/assets/7d51d349-31b5-47e2-b35a-14cd468c65ae" alt="tailwindcss" width="50" height="50"/> &nbsp; <img src="https://github.com/user-attachments/assets/42e0c6f8-03c1-41c5-864c-ef114ae64941" alt="npm" width="50" height="50"/> &nbsp; <img src="https://github.com/user-attachments/assets/b57e53b8-71e8-4b7b-a77f-193fe6978a73" width="50" height="50" alt="nodejs" /> &nbsp; <img src="https://github.com/user-attachments/assets/df3e8a46-0064-4990-8b6e-f1bc6c8a1207" alt="git" width="8%" />
  </p>
  
 <h2 align="center"> 💾 Base de données </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+<img src="https://github.com/user-attachments/assets/f9ce995f-f79f-42d5-aab8-7f49f19a36ed" alt="firebase" width="7%" /> <img src="https://github.com/user-attachments/assets/9b0c4c56-b17c-4acf-b786-623b1f660278" alt="mongodb" width="7%" /> <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="mysql" width="70" height="70" /> &nbsp; <img src="https://github.com/user-attachments/assets/c07d5621-f6a7-41cd-97a6-2734fa4ea854" alt="sqlite" width="45" height="45" />
 </p>
 
 <h2 align="center"> ☁️ Hebergements </h2>
@@ -41,7 +42,7 @@
 
 <h2 align="center"> 🎨 Design </h2>
 <p align="center">
-<img src="https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white"/> 
+<img src="https://github.com/user-attachments/assets/74840a39-e44c-494c-a769-e67102513ffb" alt="figma" width="50" height="50" /> 
 </p>
 
 <h2 align="center"> 💬 Contact  </h2>
