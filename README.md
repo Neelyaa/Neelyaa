@@ -37,7 +37,7 @@
  
 <h2 align="center"> :computer: IDE </h2>
 <p align="center"> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" />
+  <img src="https://github.com/user-attachments/assets/fcc41f99-3eba-468e-8b17-b2f2f1ce6702" alt="visual_studio_code" width="40" height="40" /> &nbsp; <img src="https://github.com/user-attachments/assets/e43c9e8d-442f-4d12-96af-881e5fb131b8" alt="windows11" width="40" height="40" />
 </p>
 
 <h2 align="center"> 🎨 Design </h2>
