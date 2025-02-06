@@ -6,7 +6,7 @@
   <img width="40%" src="https://media2.giphy.com/media/xUPGGDNsLvqsBOhuU0/giphy.gif?cid=ecf05e47qm87wluypuv3hwd337c5x78a3290bge478npg1mz&rid=giphy.gif&ct=g" alt="animated" />
 </p>
 
-<p align="center"> Développeuse Web <b>passionnée</b>, aspire à rejoindre une équipe afin de transmettre mon <b>dynamisme</b> et ma <b>créativité</b> ! </p>
+<p align="center"> Développeuse Web <b>passionnée</b>, disponible immédiatement pour rejoindre votre équipe afin de transmettre mon <b>dynamisme</b> et ma <b>créativité</b> ! </p>
 <p align=center><b>Voici mon portfolio</b> 👉 https://n-nouader-portfolio.netlify.app/ ✨</p>
 
 <p align="center">
